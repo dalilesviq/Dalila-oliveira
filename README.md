@@ -3,7 +3,6 @@
 
 Qual o grau dificuldade de aprendizado nas programcóes do visual code?
 
-Respostas: minha dificuldade, é na parte de fazer dowload do Android studio em minha casa.
 
 
 
@@ -249,9 +248,6 @@ Atualmente estou cursando Técnico em informática.
 Mas ja conclui meu curso Técnico em Enfermagem aqui no Senac
 
 
-# Olá, eu sou a Dalila Edna👋
-
-
 
 ## 🔗 Links
 
@@ -262,23 +258,15 @@ Mas ja conclui meu curso Técnico em Enfermagem aqui no Senac
 
 
 ## Outras seções comuns em perfis do GitHub
-👩‍💻 No momento estou so me preparando para o mercado de trabalho
-
-🧠 Estou aprendendo programacão de TI
-
-👯‍♀️ Procuro colaborar no trabalho em grupo
-
-🤔 Procuro ajuda com...
 
 💬 Me pergunte sobre...
 
-📫 Entrar em contato comigo no senac
+
 
 😄 Pronomes...
 
 ⚡️ Fatos engraçados...
 
 
-## 🛠 Habilidades
-Javascript, HTML, CSS...
+
 
